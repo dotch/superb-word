@@ -10,7 +10,9 @@
 
 Install the component using Bower:
 
-$ bower install superb-word --save
+```sh
+$ bower install dotch/superb-word --save
+```
 
 Or [download as ZIP](https://github.com/dotch/superb-word/archive/master.zip).
 
