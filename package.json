@@ -1,0 +1,17 @@
+{
+  "name": "superb-word",
+  "version": "0.0.1",
+  "description": "A Webcomponent wrapper for superb. Displays a random superb word.",
+  "main": "dist/superb-word.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^5.9.1",
+    "gulp": "^3.8.6",
+    "gulp-browserify": "^0.5.0",
+    "superb": "^1.0.2"
+  }
+}
