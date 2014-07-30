@@ -1,6 +1,6 @@
 # superb-word
 
-> A Webcomponent wrapper for the awesome [superb](https://github.com/sindresorhus/superb). Displays a random superb word.
+> A Custom Element wrapper for the awesome [superb](https://github.com/sindresorhus/superb). Displays a random superb word.
 
 ## Demo
 
