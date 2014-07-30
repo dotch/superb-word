@@ -1,0 +1,26 @@
+{
+  "name": "superb-word",
+  "version": "0.0.2",
+  "homepage": "https://github.com/dotch/superb-word",
+  "authors": [
+    "dotch <christian.x.weiss@gmail.com>"
+  ],
+  "description": "A Custom Element wrapper for superb. Displays a random superb word.",
+  "main": "dist/superb-word.html",
+  "keywords": [
+    "superb",
+    "web-components",
+    "inspirational"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platform": "polymer/platform#~0.3.4"
+  }
+}
